@@ -1,0 +1,9 @@
+main.css
+.intro {
+	height: 80%;
+	width: 100%;
+	background-color:pink
+}
+.intro-header{
+	padding-top: 100px;
+}
